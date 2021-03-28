@@ -6,11 +6,11 @@ Here are some ideas to get you started:
 -->
 <h1>This is Reha</h1>
 - 🎓 I’m an Undergrad at IIIT Dharwad with a major in Computer Science </br>
-- 👩💻 I’m a frontend Developer and an AI enthusiasist(Major interest:DL)</br>
+- 👩💻 I’m a full-stack Developer and an AI enthusiasist(Major interest:DL)</br>
 
 
 <b>Skills:</b><br>
-PYTHON / JS / HTML / CSS/ C /C++/ Poster Design /Jekyll /Reactjs /Bootstrap / Tensorflow /
+PYTHON / JS / HTML / CSS/ C /C++/ Poster Design /Jekyll /Reactjs /Bootstrap / Tensorflow / Nodejs/ Expressjs/ MySQL / MongoDB / Django 
 <br><br>
 
 ![Reha's Github Stats](https://github-readme-stats.vercel.app/api?username=Rehasree&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
