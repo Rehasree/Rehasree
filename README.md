@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 <h1>This is <a href="https://rehasree.github.io/portfolio.io/">Reha</a> 🍂</h1>
 - 🎓 I’m an Undergrad at IIIT Dharwad with a major in Computer Science </br>
-- 👩💻 I’m a full-stack Developer and an AI enthusiasist(Major interest:DL)</br>
+- 👩💻 I’m a MERN stack Developer.I love to create professional sites with fancy looks </br>
 
 
 <!-- <b>Skills:</b><br>
