@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 -->
 <h1>This is <a href="https://rehasree.github.io/portfolio.io/">Reha</a> 🍂</h1>
+![Profile views](https://gpvc.arturio.dev/Rehasree)  
 - 🎓 I’m an Undergrad at IIIT Dharwad with a major in Computer Science </br>
 - 👩💻 I’m a MERN stack Developer.I love to create professional sites with fancy looks </br>
 
@@ -17,8 +18,14 @@ PYTHON / JS / HTML / CSS/ C /C++/ Poster Design /Jekyll /Reactjs /Bootstrap / Te
 
 ![Reha's Github Stats](https://github-readme-stats.vercel.app/api?username=Rehasree&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
 <br>
-![Profile views](https://gpvc.arturio.dev/Rehasree)  
-- 📫 How to reach me: ...</br>
+<h2 align="center">GitHub Trophies</h2>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rehasree&theme=onedark&column=4&no-bg=true"></img>
+</div>
+<br/>
+
+- 📫Feel free to contact me</br>
 <p align="center">
 <a href="https://www.linkedin.com/in/rayha2704/"><img src="https://img.shields.io/badge/-Reha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rehasreekoneru@gmail.com"><img src="https://img.shields.io/badge/-rehasreekoneru@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
